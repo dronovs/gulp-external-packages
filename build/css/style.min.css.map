@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,C,CAAA,O,CAAA,Q,CAAmB,Q,CAAS,S,CAAU,6B,CAAA,qB,CAAsB,U,CAAW,a,CAAc,Q,CAAS,a","file":"style.min.css","sourcesContent":["*,::before,::after{margin:0;padding:0;box-sizing:border-box}.container{margin:0 auto}.colored{color:#00008b}"]}
